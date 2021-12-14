@@ -1,6 +1,6 @@
 # Corporate-Bankruptcy-Prediction
 
-### the objective was to predict the bankruptcies of certain companies listed on Taiwan Stock Exchange using data collected from the Taiwan Economic Journal for the years 1999 to 2009.
+### The objective was to predict the bankruptcies of certain companies listed on Taiwan Stock Exchange using data collected from the Taiwan Economic Journal for the years 1999 to 2009.
 ##### Tags: Data Science, Data Mining, Machine Learning, Data Analysis
 
  
