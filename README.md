@@ -1,12 +1,9 @@
 # Corporate-Bankruptcy-Prediction
 
-### Predict the bankruptcies of certain companies listed on Taiwan Stock Exchange using data collected from the Taiwan Economic Journal for the years 1999 to 2009.
+### the objective was to predict the bankruptcies of certain companies listed on Taiwan Stock Exchange using data collected from the Taiwan Economic Journal for the years 1999 to 2009.
 ##### Tags: Data Science, Data Mining, Machine Learning, Data Analysis
 
-#### Co-created by [Harsh Mudgil](https://github.com/harshmudgil97), [Harshal Pawar](https://github.com/HarshalPawar88), [Saubhagya Verma](https://github.com/saubhagyav) and [Tawheed Yousuf](https://github.com/Tawheed-DS)
-
-#### Links:   
-Project presentation: [slideshow](https://docs.google.com/presentation/d/1BFWu7--rt_tdynKUGr8wenHv4tzV1zwlTVoP5Sf9Gqo/edit?usp=sharing)   
+ 
 Dataset: [Company Bankruptcy Data](https://drive.google.com/file/d/13Wg5cM-knDStsC3TNBpCrJ59p0Tg7H9b/view?usp=sharing)  
 ![image](https://user-images.githubusercontent.com/85662956/132116974-e9f2c605-09f0-4ae2-be4b-8847ac1f12ab.png)
 
